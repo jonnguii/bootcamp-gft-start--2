@@ -35,8 +35,8 @@ Ao usar o terminal, podemos navegar entre pastas (*directory*) e manipular arqui
 🔹 **TAB** → **AutoComplete** → Preenche automaticamente o nome de arquivos e pastas quando começamos a digitar e pressionamos `TAB`.  
 
 📸 *Prints:*  
-- ![teste](img/mkdir.png) : Criando uma pasta com `mkdir` e usando `TAB` para completar automaticamente.  
-- ![comando-echo](img/echo.png) : Criando um arquivo de texto usando `echo >`.  
+- ![Image](https://github.com/user-attachments/assets/ec61addb-c982-4d19-906e-f8f8130db749) : Criando uma pasta com `mkdir` e usando `TAB` para completar automaticamente.  
+- ![Image](https://github.com/user-attachments/assets/cb3e4b6b-d979-475a-ad16-8a387534d279) : Criando um arquivo de texto usando `echo >`.  
 
 
 Agora você já sabe os comandos básicos para navegar e manipular arquivos no terminal do Windows! 😎🔥  
