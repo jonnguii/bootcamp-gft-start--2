@@ -1,18 +1,18 @@
 # 🖥️ Comandos Básicos no Shell (Windows)
 
-Ao usar o terminal, podemos navegar entre pastas (*directories*) e manipular arquivos (*files*) utilizando comandos simples. Abaixo estão alguns comandos básicos essenciais! 🚀  
+Ao usar o terminal, podemos navegar entre pastas (*directory*) e manipular arquivos (*file*) utilizando comandos simples. Abaixo estão alguns comandos básicos essenciais: 
 
 ---
 
 ## 📂 Navegação entre pastas
 🔹 `cd <nome-da-pasta>` → **Muda para a pasta especificada** (*Change Directory*).  
 🔹 `cd..` → **Volta uma pasta atrás**.  
-🔹 `dir` → **Exibe os arquivos e pastas dentro do diretório atual**.  
+🔹 `dir` → **Exibe os arquivos e pastas dentro do diretório atual** (*Directory*).  
 
 ---
 
 ## 📌 Limpeza do Terminal
-🔹 `cls` → **Limpa toda a tela do terminal**, deixando-o organizado.  
+🔹 `cls` → **Limpa toda a tela do terminal**, deixando-o organizado (*Clear Screen*).
 
 ---
 
@@ -35,8 +35,8 @@ Ao usar o terminal, podemos navegar entre pastas (*directories*) e manipular arq
 🔹 **TAB** → **AutoComplete** → Preenche automaticamente o nome de arquivos e pastas quando começamos a digitar e pressionamos `TAB`.  
 
 📸 *Prints:*  
-- ![teste](img/mkdir.png): Criando uma pasta com `mkdir` e usando `TAB` para completar automaticamente.  
-- **Segunda imagem**: Criando um arquivo de texto usando `echo >`.  
+- ![teste](img/mkdir.png) : Criando uma pasta com `mkdir` e usando `TAB` para completar automaticamente.  
+- ![comando-echo](img/echo.png) : Criando um arquivo de texto usando `echo >`.  
 
 
 Agora você já sabe os comandos básicos para navegar e manipular arquivos no terminal do Windows! 😎🔥  
