@@ -33,7 +33,7 @@ Ao usar o terminal, podemos navegar entre pastas (*directory*) e manipular arqui
 
 ## ⚡ Atalho útil  
 🔹 **TAB** → **AutoComplete** → Preenche automaticamente o nome de arquivos e pastas quando começamos a digitar e pressionamos `TAB`.
----
+
 
 ## 📸 *Prints:*
 Criando uma pasta com `mkdir` e usando `TAB` para completar automaticamente:  
