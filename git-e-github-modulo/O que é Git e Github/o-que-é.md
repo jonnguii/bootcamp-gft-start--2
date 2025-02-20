@@ -29,4 +29,3 @@ O **GitHub** é uma plataforma de **hospedagem de repositórios e arquivos**.
   - ✅ Atualizações em tempo real.  
 
 ---  
-🚀 Agora que você entendeu Git e GitHub, bora praticar no terminal! 😎🔥  
