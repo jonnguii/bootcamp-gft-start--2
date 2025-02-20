@@ -35,7 +35,7 @@ Ao usar o terminal, podemos navegar entre pastas (*directories*) e manipular arq
 🔹 **TAB** → **AutoComplete** → Preenche automaticamente o nome de arquivos e pastas quando começamos a digitar e pressionamos `TAB`.  
 
 📸 *Prints:*  
-- **Primeira imagem**: Criando uma pasta com `mkdir` e usando `TAB` para completar automaticamente.  
+- ![mkdir](img/mkdir.png): Criando uma pasta com `mkdir` e usando `TAB` para completar automaticamente.  
 - **Segunda imagem**: Criando um arquivo de texto usando `echo >`.  
 
 
