@@ -28,13 +28,13 @@ As **trees** são estruturas que apontam e armazenam os blobs, funcionando de ma
 - Cada **arquivo** é representado por um blob.
 
 ### Exemplo de Estrutura de Tree:
-
+```
 Projetos (Tree) 
-├── texto.txt (blob) 
-├── imagem.png (blob) 
+├── texto.txt (blob)
+└── imagem.png (blob)
 	└── Arquivos (Tree)
-	   └── Antigos.csv (blob)
-
+	  └── Antigos.csv (blob)
+```
 
 ### 📅 Commit
 Os **commits** são registros de alterações feitas em um repositório Git. Quando realizamos um commit, movemos nossas alterações para uma área de segurança, conhecida como **staging** (pré-oficial). A estrutura de um commit inclui:
