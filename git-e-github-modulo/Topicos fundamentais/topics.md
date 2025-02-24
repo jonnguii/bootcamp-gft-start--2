@@ -2,6 +2,11 @@
 
 Este módulo aborda conceitos essenciais do Git, incluindo sua estrutura, segurança e funcionamento:
 
+- ## SHA-1 ✅
+- ## OBJETOS FUNDAMENTAIS ✅
+- ## SISTEMA DISTRIBUIDO ✅
+- ## SEGURANÇA 
+
 ## 🔹 SHA-1  
 O **Secure Hash Algorithm 1 (SHA-1)** é um algoritmo de hash usado pelo Git para garantir a integridade dos dados. 
 Ele gera uma chave hash de **40 dígitos** para cada commit, garantindo que qualquer alteração no código resulte em um novo identificador único. 
