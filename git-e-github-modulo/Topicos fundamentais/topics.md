@@ -61,11 +61,17 @@ O **Git** é um sistema de controle de versão distribuído, isso se dá baseado
 
 - **Branches**: A criação de branches facilita o desenvolvimento de novas funcionalidades ou correções sem afetar o código principal, promovendo uma colaboração eficaz entre equipes.
 
-Esses recursos tornam o Git uma ferramenta confiável e é amplamente utilizada na vida dos programadores, permitindo que eles gerenciem projetos de forma eficiente e colaborativa.
 
 
+🔑 SSH e Token
 
+O SSH (Secure Shell) e o Token PAT (Personal Access Token) são medidas de segurança para proteger a comunicação entre sua máquina local e o repositório GitHub.
 
+SSH: O SSH gera um par de chaves criptografadas (pública e privada), permitindo que você não precise mais digitar sua senha toda vez que executar git push ou git pull. 
+Além de acelerar o processo, ele fornece um nível extra de segurança, prevenindo ataques.
+
+Token PAT: O Personal Access Token (PAT) é gerado com uma combinação de caracteres e pode ter uma data de expiração. 
+Ele substituiu o método tradicional de login com e-mail e senha, garantindo mais segurança ao acessar repositórios privados via HTTPS.
 
 
 
