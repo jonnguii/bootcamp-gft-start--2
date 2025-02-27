@@ -76,6 +76,6 @@ git commit -m "Resolving README.md"
  git push origin main
 
 
-Agora nosso código está atualizado, livre de conflitos e  foi enviado ao repositório remoto com sucesso! 🚀
+Agora nosso código está atualizado, livre de conflitos e foi enviado ao repositório remoto com sucesso! 🚀
 
 
