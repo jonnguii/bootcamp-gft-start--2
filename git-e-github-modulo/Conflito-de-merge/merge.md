@@ -29,7 +29,7 @@ hint: (e.g., 'git pull ...') before pushing again.
 
 ```
 
-Tentamos enviar mudanças ao nosso reposito remoto, mas o git percebeu que há novas alterações, ou seja, uma versão oficial não alinhadas com a versão local.
+Tentamos enviar mudanças ao nosso reposito remoto, mas o git percebeu que há novas alterações, ou seja, uma versão oficial não alinhada com a versão local.
 
 ```
 $ git pull origin master
@@ -45,7 +45,7 @@ CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 
-Realizamos um "git pull", para "puxar" essa "versão oficial" do repo remote para nosso local.
+Realizamos um "git pull", para "puxar" essa "versão oficial" do repositório remoto para o nosso local.
 Ainda assim, percebemos um conflito: Ha um arquivo com 2 tipos de conteúdos.
 
 ⚠️ O que fazer quando há um conflito?
@@ -55,26 +55,27 @@ da pistas e pede para resolvermos manualmente.
 
 
 "Abrimos o arquivo "README.MD"":
-
+```
 <<<<<<< HEAD
 (Nossa versão do código)
 ======= linha separadora
 (Versão do código remoto)
 >>>>>>> origin/master
-
+```
 
 Resolvemos o conflito, eliminando os dados errados e deixando o conteudo principal desejado, m
 antendo apenas o conteúdo correto e removendo as marcas do Git (<<<<<<<, =======, >>>>>>>).
 
+```
 - Adicionamos o arquivo
 git add README.md
 
-- Commitamos
+- Descrevemos a alteração (commitamos)
 git commit -m "Resolving README.md"
 
 - Mandamos pro repositorio remoto
  git push origin main
-
+```
 
 Agora nosso código está atualizado, livre de conflitos e foi enviado ao repositório remoto com sucesso! 🚀
 
