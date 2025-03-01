@@ -10,5 +10,6 @@ Este repositório contém os desafios, exercícios e projetos realizados no boot
 
 ## 🔧 Tecnologias   
 - Java  
-- Git & GitHub  
+- Git & GitHub
+- PostgreSQL 
 
