@@ -3,7 +3,7 @@
 
 🚀 **Lógica de Programação Essencial**
 
-📌 ## **Conteúdo**
+## 📌  **Conteúdo**
 
 - ### **Entendendo o que é lógica**
 - ### **O que são algoritmos e pseudocódigo**
