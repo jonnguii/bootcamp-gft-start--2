@@ -108,7 +108,7 @@ GAME END
 🔹 **Fluxogramas** são a forma gráfica de representar um algoritmo.
 
 ✏️ Exemplo:  
-[Exemplo Imagem]
+![Image](https://github.com/user-attachments/assets/a862a364-eb29-4cb5-bb00-dce0e27c33c6)
 
 🔹 **Variáveis** são entidades que alocam um espaço na memória do computador, a partir de sua criação em código, utilizando os mais variados tipos (Números Inteiros [int], Texto [string], Caractere [char], Números Decimais [float], Condicional [boolean]).
 
