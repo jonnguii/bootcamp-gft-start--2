@@ -34,7 +34,7 @@ Isso permite que o código Java seja extremamente portátil, pois não depende d
 
 O objetivo aqui é entender como funciona o processo de compilação e execução do código Java.
 
-### 1. Estrutura do Projeto
+### 1. Estrutura
 
 Primeiro, criamos uma pasta chamada **hello-java**, e dentro dessa pasta, criamos o arquivo `Hello.java` com o seguinte código:
 
@@ -57,7 +57,6 @@ Usamos o comando "javac" para compilar o arquivo Hello.java. Isso cria o arquivo
 
 ```
 javac Hello.java
-
 ```
 
 Após compilar, podemos visualizar o conteúdo do arquivo Hello.java usando o comando type no CMD (isso funciona no Windows). 
@@ -65,7 +64,6 @@ Esse comando imprime o conteúdo do arquivo no terminal:
 
 ```
 type Hello.java
-
 ```
 O terminal mostrará o conteudo:
 
@@ -81,14 +79,12 @@ Agora, vamos tentar visualizar o arquivo .class gerado:
 
 ```
 type Hello.class
-
 ```
 
 Saída no terminal:
 
 ```
 ��C��pclassd] lqH#t[a<8*A<2����3▒▒▒▒▒
-
 ```
 
 
