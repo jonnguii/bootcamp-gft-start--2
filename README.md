@@ -5,9 +5,11 @@ Este repositório contém os desafios, exercícios e projetos realizados no boot
 ## 📌 Módulos Concluídos  
 ✅ Lógica de Programação Essencial  
 ✅ Estrutura de Dados e Algoritmos  
-✅ Git e GitHub *(em andamento...)*  
+✅ Git e GitHub
+✅ Banco de dados com PostgreSQL *(em andamento...)*
 
 ## 🔧 Tecnologias   
 - Java  
-- Git & GitHub  
+- Git & GitHub
+- PostgreSQL 
 
