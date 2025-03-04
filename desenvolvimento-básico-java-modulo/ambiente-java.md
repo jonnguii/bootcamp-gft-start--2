@@ -31,10 +31,10 @@ Antes de prosseguir, é importante entender a **importância do JDK**, que é es
 ### 🔧 Passos para Instalar o JDK:
 
 1. **Baixar o JDK**
-   [Link para download do JDK: JDK](https://www.oracle.com/java/technologies/javase-jdk10-downloads.html)
+   [Link para download do JDK:](https://www.oracle.com/ae/java/technologies/downloads/)
 
 2. **Passos de instalação**
-   - **Meu OS: Windows**
+   - **Windows**
      - Baixe o instalador `.exe` para Windows.
      - Execute o instalador e siga as instruções na tela.
      - Durante a instalação, anote o caminho onde o JDK será instalado (por exemplo: `C:\Program Files\Java\jdk-10`).
@@ -66,15 +66,13 @@ Antes de prosseguir, é importante entender a **importância do JDK**, que é es
    - Abra o **Prompt de Comando** e digite o seguinte comando:
    
 ```
-
 java -version
-
 ```
 Isso deve mostrar a versão do JDK que você acabou de instalar.
 
 
 
-Instalando o Maven e o Gradle
+## 3️⃣ Instalando o Maven e o Gradle
 
 🔨 O que são Maven e Gradle?
 
@@ -91,7 +89,9 @@ Gerenciamento do ciclo de vida do projeto
 
 O Maven é baseado em XML (pom.xml), enquanto o Gradle utiliza arquivos Groovy/Kotlin (build.gradle).
 
-📌 Instalando o Maven
+
+### 📌 Instalando o Maven
+
 
 Baixe o Maven:
 
@@ -111,7 +111,12 @@ Verifique a instalação:
 
 mvn -version
 
-📌 Instalando o Gradle
+
+### 📌 Instalando o Gradle
+
+
+
+
 
 Baixe o Gradle:
 
@@ -132,8 +137,7 @@ Verifique a instalação:
 gradle -v
 
 
-
-4️⃣ Um princípio muito importante utilizado em projetos Java são os chamados wrappers.
+## 4️⃣ Um princípio muito importante utilizado em projetos Java são os chamados wrappers.
 
 O que é um Wrapper? 🛠️
 
