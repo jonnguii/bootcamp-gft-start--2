@@ -220,3 +220,17 @@ fazer a junção do texto (dentre aspas `""`) com as variáveis.
 
 ---
 
+🏗️ **Estrutura de Repetição**
+
+A estrutura de repetição é uma funcionalidade utilizada na lógica de programação que nos permitem repetir um determinado número de vezes um código.
+Ela nos permite economizar poder computacional e elimina o processo de inserção manual de dados de grande porte.
+
+```java
+int numero = 0; 
+    int limite = 10; 
+
+        while (numero <= limite) {
+            System.out.println("9x" + numero + " = " + numero * 9);
+            numero++;
+        }
+```
